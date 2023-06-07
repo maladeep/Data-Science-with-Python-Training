@@ -10,6 +10,7 @@ Through a combination of theory and hands-on exercises, you will learn the funda
 This training is designed to cover the following topics:
 
 1. Introduction to Data Science
+   [View slide](https://www.canva.com/design/DAFlAkEOKw0/dU9Zgj_R0BsfWKiGMfpMSQ/view?utm_content=DAFlAkEOKw0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
   * What is data science?
   * How ML, DS, AI are realted
   * Role of Python in data science
