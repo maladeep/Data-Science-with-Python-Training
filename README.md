@@ -96,6 +96,11 @@ Clone the repository to your local machine:
   - Scikit-learn Documentation: Documentation for the scikit-learn library, which provides a wide range of machine learning algorithms and tools.
   - TensorFlow Documentation: Documentation for the TensorFlow library, a popular open-source framework for deep learning
 
+# Blog to Read
+ - [Exploratory Data Analysis for Beginner Using Python](https://medium.com/analytics-vidhya/exploratory-data-analysis-for-beginner-7488d587f1ec)
+ - [Data Science Road Map 2021 — The Ultimate Guide](https://medium.com/@rehabemam/data-science-road-map-2021-the-ultimate-guide-ae46da7a47c7)
+
+
 ## Contributing
 
 Contributions to this project are welcome. If you find any issues or would like to suggest improvements, please open an issue or submit a pull request. 
