@@ -16,6 +16,7 @@ This training is designed to cover the following topics:
   * Role of Python in data science
   * Python data science libraries (NumPy, Pandas, Matplotlib, etc.)
 2. Data Manipulation and Analysis with Pandas
+   (Pandas and EDA)[https://github.com/maladeep/student-alcohol-consumption-EDA/blob/master/EDABasic.ipynb]
   * Working with data structures (Series, DataFrame)
   * Data cleaning and preprocessing
   * Data exploration and visualization
