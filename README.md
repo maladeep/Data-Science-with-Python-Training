@@ -41,6 +41,11 @@ This training is designed to cover the following topics:
   * Text preprocessing
   * Text classification
   * Sentiment analysis
+
+8. Web Scraping with BeautifulSoup
+  * Web scraping with bs4
+  * Web Scraping HTML Tables Without BeautifulSoup or Any Scraping Tool [View blog](https://python.plainenglish.io/web-scraping-html-tables-without-beautifulsoup-or-any-scraping-tool-b660803feca7)
+
  
  # Capstone Project
 
