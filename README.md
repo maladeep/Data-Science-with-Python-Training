@@ -88,7 +88,7 @@ Writing a research paper will enhance your critical thinking, research, and comm
 
 Find the student's project in [Notion](https://datawithmala.notion.site/Data-Project-Tracker-844351962d484468b2870b1d33215ab4?pvs=4)
 
-> Instruction to student- click `Edit` and add your project details accordingly.
+> Instructions to student- click `Edit` and add your project details accordingly.
 
  
 # Getting Started
