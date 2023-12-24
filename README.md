@@ -10,42 +10,48 @@ Through a combination of theory and hands-on exercises, you will learn the funda
 This training is designed to cover the following topics:
 
 1. Introduction to Data Science
-   [View slide](https://www.canva.com/design/DAFlAkEOKw0/dU9Zgj_R0BsfWKiGMfpMSQ/view?utm_content=DAFlAkEOKw0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-  * What is data science?
-  * How ML, DS, AI are realted
-  * Role of Python in data science
-  * Python data science libraries (NumPy, Pandas, Matplotlib, etc.)
-2. Data Manipulation and Analysis with Pandas
-  * Working with data structures (Series, DataFrame)
-  * Data cleaning and preprocessing
-  * Data exploration and visualization
-  3. Exploratory Data Analysis (EDA) [View EDA](https://github.com/maladeep/student-alcohol-consumption-EDA/blob/master/EDABasic.ipynb)
-  * Descriptive statistics
-  * Data visualization techniques
-  * Handling missing data and outliers
+      [View slide](https://www.canva.com/design/DAFlAkEOKw0/dU9Zgj_R0BsfWKiGMfpMSQ/view?utm_content=DAFlAkEOKw0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+     * What is data science?
+     * How ML, DS, AI are realted
+     * Role of Python in data science
+     * Python data science libraries (NumPy, Pandas, Matplotlib, etc.)
+   2. Data Manipulation and Analysis with Pandas
+     * Working with data structures (Series, DataFrame)
+     * Data cleaning and preprocessing
+     * Data exploration and visualization
+     3. Exploratory Data Analysis (EDA) [View EDA](https://github.com/maladeep/student-alcohol-consumption-EDA/blob/master/EDABasic.ipynb)
+     * Descriptive statistics
+     * Data visualization techniques
+     * Handling missing data and outliers
 4. Machine Learning Basics
-  * Introduction to supervised and unsupervised learning
-  * Linear regression
-  * Logistic regression
-  * Decision trees
-  * Clustering algorithms
+     * Introduction to supervised and unsupervised learning
+     * Linear regression
+     * Logistic regression
+     * Decision trees
+     * Clustering algorithms
 5. Model Evaluation and Validation
-  * Cross-validation techniques
-  * Evaluation metrics (accuracy, precision, recall, etc.)
-  * Overfitting and underfitting
+     * Cross-validation techniques
+     * Evaluation metrics (accuracy, precision, recall, etc.)
+     * Overfitting and underfitting
 6. Introduction to Deep Learning
-  * Neural networks basics
-  * Deep learning frameworks (TensorFlow, Keras)
-  * Building and training neural networks
+     * Neural networks basics
+     * Deep learning frameworks (TensorFlow, Keras)
+     * Building and training neural networks
 7. Introduction to Natural Language Processing (NLP)
-  * Text preprocessing
-  * Text classification
-  * Sentiment analysis
+     * Text preprocessing
+     * Text classification
+     * Sentiment analysis
 
 8. Web Scraping with BeautifulSoup
-  * Web scraping with bs4
-  * Web Scraping HTML Tables Without BeautifulSoup or Any Scraping Tool [View blog](https://python.plainenglish.io/web-scraping-html-tables-without-beautifulsoup-or-any-scraping-tool-b660803feca7)
+     * Web scraping with bs4
+     * Web Scraping HTML Tables Without BeautifulSoup or Any Scraping Tool [View blog](https://python.plainenglish.io/web-scraping-html-tables-without-beautifulsoup-or-any-scraping-tool-b660803feca7)
 
+9. Extras
+    * Design Thinking for Data Science
+    * Lean Canvas for Data Science
+    * Design Psychology for product development
+    * CV/Resume making
+    * Digital Persona
  
  # Capstone Project
 
@@ -78,6 +84,13 @@ You are encouraged to choose a research topic that aligns with your interests an
 
 Writing a research paper will enhance your critical thinking, research, and communication skills, and allow you to contribute to the broader data science community by sharing your knowledge and findings.
 
+# Student's Project
+
+Find the student's project in [Notion](https://datawithmala.notion.site/Data-Project-Tracker-844351962d484468b2870b1d33215ab4?pvs=4)
+
+> Instruction to student- click `Edit` and add your project details accordingly.
+
+ 
 # Getting Started
 
 1. To get started with the training, follow these steps:
