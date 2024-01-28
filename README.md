@@ -12,8 +12,8 @@ This training is designed to cover the following topics:
 1. Introduction to Data Science
       [View slide](https://www.canva.com/design/DAFlAkEOKw0/dU9Zgj_R0BsfWKiGMfpMSQ/view?utm_content=DAFlAkEOKw0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
      * What is data science?
-     * How ML, DS, AI are realted
-     * Role of Python in data science
+     * How ML, DS, and AI are related
+     * Role of Python in Data Science
      * Python data science libraries (NumPy, Pandas, Matplotlib, etc.)
    2. Data Manipulation and Analysis with Pandas
      * Working with data structures (Series, DataFrame)
